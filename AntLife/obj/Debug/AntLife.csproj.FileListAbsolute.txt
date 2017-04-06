@@ -1,0 +1,8 @@
+c:\users\krzysiek\documents\visual studio 2015\Projects\AntLife\AntLife\bin\Debug\AntLife.exe.config
+c:\users\krzysiek\documents\visual studio 2015\Projects\AntLife\AntLife\bin\Debug\AntLife.exe
+c:\users\krzysiek\documents\visual studio 2015\Projects\AntLife\AntLife\bin\Debug\AntLife.pdb
+c:\users\krzysiek\documents\visual studio 2015\Projects\AntLife\AntLife\bin\Debug\AntLifePCL.dll
+c:\users\krzysiek\documents\visual studio 2015\Projects\AntLife\AntLife\bin\Debug\AntLifePCL.pdb
+c:\users\krzysiek\documents\visual studio 2015\Projects\AntLife\AntLife\obj\Debug\AntLife.csprojResolveAssemblyReference.cache
+c:\users\krzysiek\documents\visual studio 2015\Projects\AntLife\AntLife\obj\Debug\AntLife.exe
+c:\users\krzysiek\documents\visual studio 2015\Projects\AntLife\AntLife\obj\Debug\AntLife.pdb
